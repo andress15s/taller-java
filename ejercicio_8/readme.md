@@ -1,0 +1,1 @@
+    Leer una matriz M, (arreglo bidimensional) de m filas y n columnas. Los elementos son números enteros aleatorios positivos. Crear e imprimir dos vectores así: el vector A que contenga todos los números pares de la matriz M, y el vector B que contenga los números impares.

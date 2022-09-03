@@ -1,0 +1,1 @@
+    Calcular la suma y el promedio de los números pares menores o iguales que un número K leído al comienzo.

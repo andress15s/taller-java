@@ -1,0 +1,1 @@
+    Leer un número entero y que determinar si dicho número es de uno, dos o tres dígitos.
